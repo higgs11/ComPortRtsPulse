@@ -4,14 +4,7 @@
 
 class DirectSerialPort
 {
-	/*
-	typedef wchar_t WCHAR ;
-
-	typedef CONST WCHAR *LPCWSTR;
-
-	wchar_t port[]=L"COM4";
-	*/
-
+	
 private:
 	HANDLE hSerial;
 
